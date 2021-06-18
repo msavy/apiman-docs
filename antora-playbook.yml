@@ -7,6 +7,8 @@ site:
 
 content:
   sources:
+    - url: ./
+      branches: HEAD
     - url: https://github.com/apiman/apiman-docs-user-guide.git
       branches:
         - antora

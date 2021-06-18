@@ -1,0 +1,6 @@
+name: index
+title: Welcome to Apiman root
+version: 3.3.3
+start_page: ROOT:index.adoc
+# nav:
+# - modules/ROOT/nav.adoc
